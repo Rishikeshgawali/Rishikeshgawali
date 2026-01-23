@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://github.com/Rishikeshgawali/Rishikeshgawali/blob/main/banner.png" alt="banner" />
 </p>
-
-<h1 align="center">Hello, my name is Rishikesh.</h1>
-<h3 align="center">Nice to meet you.</h3>
-
 ---
 
 ### 👨‍💻 About Me
