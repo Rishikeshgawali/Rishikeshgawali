@@ -7,7 +7,7 @@ Add this **just below your banner section** (don’t change anything else in you
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Rishikesh;Aspiring+Programmer+and+Computer+Engineer;C+|+C%2B%2B+|+Python+|+Java+|+MySQL+|+PostgreSQL+|+Power+BI+|+Excel;Passionate+about+Data+Analytics+and+Software+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1200&lines=Hi+I'm+Rishikesh;Aspiring+Programmer+and+Computer+Engineer;C+|+C%2B%2B+|+Python+|+Java+|+MySQL+|+PostgreSQL+|+Power+BI+|+Excel" />
 </p>
 
 ### About Me 👨‍💻 : 
